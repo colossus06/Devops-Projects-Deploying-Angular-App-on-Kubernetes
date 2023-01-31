@@ -1,5 +1,7 @@
 # Devops-Projects-23-Deploying-Angular-App-on-Kubernetes
-Devops Projects-23- Deploying Angular App on Kubernetes
+
+
+![image](https://user-images.githubusercontent.com/96833570/215834567-ec04edd8-9451-4e03-a1f4-849bd419c2ab.png)
 
 
 ![image](https://user-images.githubusercontent.com/96833570/215825767-c28df638-904b-4e71-a2e9-929d09f3254e.png)
@@ -101,4 +103,10 @@ kubectl apply -f ng-deployment.yaml
 ## Validation 
 ![image](https://user-images.githubusercontent.com/96833570/215832558-62d12880-9b0a-4332-a3c6-47a525e40aa5.png)
 
+
+## Health check
+
+`minikube dashboard`
+
+![image](https://user-images.githubusercontent.com/96833570/215833294-e11c309a-19cf-4b7f-a7ec-f93fea26da6b.png)
 
