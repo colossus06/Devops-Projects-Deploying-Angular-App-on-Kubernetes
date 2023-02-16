@@ -1,4 +1,4 @@
-# Devops-Projects-23-Deploying-Angular-App-on-Kubernetes
+# Devops-Projects-Deploying-Angular-App-on-Kubernetes
 
 
 ![image](https://user-images.githubusercontent.com/96833570/215834567-ec04edd8-9451-4e03-a1f4-849bd419c2ab.png)
