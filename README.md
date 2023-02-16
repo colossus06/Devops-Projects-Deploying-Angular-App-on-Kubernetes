@@ -109,3 +109,4 @@ kubectl apply -f ng-deployment.yaml
 `minikube dashboard`
 
 ![image](https://user-images.githubusercontent.com/96833570/215833294-e11c309a-19cf-4b7f-a7ec-f93fea26da6b.png)
+
